@@ -2,7 +2,7 @@ Build a React JS weather app using the OpenWeatherMap API. I used axios to conne
 
 Check demo: https://weather-react-morteza.netlify.app/
 
-Source code: https://github.com/mortezatoushekhah/todo-app-react-firebase
+Source code: https://github.com/mortezatoushekhah/weather-app-react
 
 This app was created by me(Morteza Toushekhah)
 
